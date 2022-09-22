@@ -1,0 +1,13 @@
+{
+	"TITLE": "{{usertag}} ● User Information",
+    "DESCRIPTION": "    | Shows information of some user",
+    "USAGE": "{{prefix}}userinfo (@user/ID)",
+    "EXAMPLES": "{{prefix}}userinfo\n{{prefix}}userinfo @JosGCS#5377\n{{prefix}}userinfo 199237487648833556",
+    "INVALID_USER": "Could not find user `{{search}}`.",
+    "NO_GAME": "Not playing",
+    "NO_ROLE": "No role",
+    "NO_NICKNAME": "No nickname",
+    "MORE_ROLES": "and {{count}} others roles",
+    "BOT_STATS": "**{{votes}}** votes ([top.gg](https://top.gg))\n**{{servers}}** servers\n**{{shards}}** shards\nUsing **{{lib}}**",
+	"DESCRIPTION2": "It shows detailed information about a specific user."
+}

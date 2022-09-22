@@ -1,0 +1,19 @@
+{
+	"DESCRIPTION": "        | Brings up this message again",
+	"USAGE": "{{prefix}}help [command]",
+	"EXAMPLES": "{{prefix}}help\n{{prefix}}help ping\n{{prefix}}help purge",
+	"CUSTOM": "A custom command doesn't have help page.",
+	"NOT_FOUND": "`{{search}}` is not a valid command.",
+	"TITLE": "{{name}} ● Commands List",
+	"FIELD_USAGE": "Usage:",
+	"FIELD_DESCRIPTION": "Description:",
+	"FIELD_ALIASES": "Alias:",
+	"FIELD_EXAMPLES": "Examples:",
+	"FIELD_PERMISSIONS": "Permissions:",
+	"NO_ALIAS": "No alias",
+	"CMD_TITLE": "{{name}} ● Commands Helper",
+	"INFO": "List of all of {{name}} commands.\n\n> :warning: **Need help with a command?**\n> To get help on a specific command, type in: ``{{prefix}}help [command]``",
+	"CUSTOM_COMMANDS": "Custom commands",
+	"NO_REQUIRED_PERMISSION": "No specific permission is required to execute this command.",
+	"DESCRIPTION2": "Shows all Atomix available commands list or gets specific command help."
+}

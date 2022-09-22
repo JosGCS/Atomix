@@ -1,0 +1,9 @@
+{
+	"TITLE": "{{name}} ● Latency Stats",
+    "DESCRIPTION": "        | Shows Atomix and DiscordAPI latency",
+    "USAGE": "{{prefix}}ping",
+    "EXAMPLES": "{{prefix}}ping",
+    "MESSAGE_TITLE": ":incoming_envelope: **Message Latency:**",
+	"API_TITLE": ":satellite_orbital: **DiscordAPI Latency:**",
+	"DESCRIPTION2": "Shows latency between Atomix servers and Discord API."
+}

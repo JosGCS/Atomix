@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "  | Get information about the server",
+    "USAGE": "{{prefix}}serverinfo [ID/Name]",
+    "EXAMPLES": "{{prefix}}serverinfo\n{{prefix}}serverinfo AtomixHQ\n{{prefix}}serverinfo 652264003606806531",
+    "AFK_CHANNEL": "AFK channel:",
+    "NO_AFK_CHANNEL": "No AFK channel",
+    "MEMBERS": "{{count}} members",
+    "BOTS": "{{count}} bots",
+    "BOOSTS": "Boosts count:",
+    "TEXT_CHANNELS": "{{count}} text",
+    "VOICE_CHANNELS": "{{count}} voice",
+    "CAT_CHANNELS": "{{count}} categories",
+	"TITLE": "{{gName}} ● Guild Information",
+	"DESCRIPTION2": "Get information about the current server or a specific one."
+}

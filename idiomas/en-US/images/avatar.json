@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "    | Get the profile picture from any user",
+    "USAGE": "{{prefix}}avatar [@member] [-v]",
+    "EXAMPLES": "{{prefix}}avatar [-v]\n{{prefix}}avatar @JosGCS#5377 [-v]",
+	"DESCRIPTION2": "Get the profile picture from any user or the avatar url."
+}

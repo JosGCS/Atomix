@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "      | Reloads an existing command",
+    "USAGE": "{{prefix}}reload <command>",
+    "EXAMPLES": "{{prefix}}reload ping\n{{prefix}}reload purge",
+    "NOT_FOUND": "`{{search}}` is not an available command!",
+    "SUCCESS": "Command successfully reloaded!",
+	"EMPTY": "Unknown command, please try again.",
+	"DESCRIPTION2": "Reloads cache of an existing command quickly."
+}

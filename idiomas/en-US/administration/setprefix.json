@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "  | Set your own prefix for Atomix",
+    "USAGE": "{{prefix}}setprefix [prefix]",
+    "EXAMPLES": "{{prefix}}setprefix +\n{{prefix}}setprefix %\n{{prefix}}setprefix =",
+    "MISSING_PREFIX": "Please enter a valid prefix!",
+    "TOO_LONG": "The prefix shouldn't exceed 5 characters!",
+    "SUCCESS": "The Atomix's prefix it's now `{{prefix}}`.",
+	"DESCRIPTION2": "Set your own Atomix's prefix to use all commands as you want."
+}

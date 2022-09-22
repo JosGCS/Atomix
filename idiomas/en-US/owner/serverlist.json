@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "  | Get a servers list where i am",
+    "USAGE": "{{prefix}}servers-list",
+    "EXAMPLES": "{{prefix}}servers-list",
+	"DESCRIPTION2": "Get a servers list where Atomix was invited to start the party.",
+	"SERVERLIST_TITLE": "{{botName}} ● Server List"
+}

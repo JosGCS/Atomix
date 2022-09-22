@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "  | Resumes the party, don't let us down",
+    "USAGE": "{{prefix}}resume",
+    "EXAMPLES": "{{prefix}}resume",
+    "SUCCESS": "▶️ The party continues! Let's dance boys.",
+	"DESCRIPTION2": "Keep the party going, don't let your fans down any longer."
+}

@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "    | Skip the current song",
+    "USAGE": "{{prefix}}skip",
+    "EXAMPLES": "{{prefix}}skip",
+    "NO_NEXT_SONG": "There's no song after this one!",
+    "VOTE_CONTENT": "Next song: {{songName}}\nReact with :track_next:  to listen the next song! {{requiredCount}} votes are required.",
+    "SUCCESS": "Song skipped!",
+	"TITLE": "{{gName}} ● Skip song",
+	"DESCRIPTION2": "The current DJ is not playing good songs? Skip his songs, don't let the party be down."
+}

@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "    | I'll roll the coin for you",
+    "USAGE": "{{prefix}}flip",
+    "EXAMPLES": "{{prefix}}flip",
+    "HEADS": ":coin: | Heads!",
+    "TAILS": ":coin: | Tails!",
+	"DESCRIPTION2": "Bet and roll for a side of the coin."
+}

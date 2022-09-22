@@ -1,0 +1,12 @@
+{
+	"TITLE": "{{gName}} ● Channel Cleaner",
+    "DESCRIPTION": "     | Quickly delete multiple messages",
+    "USAGE": "{{prefix}}purge <all/number-of-messages> [@member]",
+    "EXAMPLES": "{{prefix}}purge 10\n{{prefix}}purge 10 @JosGCS#0001\n{{prefix}}purge all",
+    "MISSING_AMOUNT": "You must specify a number of messages to delete!",
+    "ALL_DESC": "All the messages on this text channel will be deleted, please confirm reacting with :white_check_mark:.\n\nOtherwise, the command will be cancelled in the next **30** seconds.",
+    "CHANNEL_CLEARED": "The channel has been completely cleared!",
+    "CLEARED": "**{{amount}}** were messages deleted!",
+    "CLEARED_MEMBER": "**{{amount}}** messages of **{{username}}** were deleted!",
+    "DESCRIPTION2": "Quickly delete multiple messages or a whole text channel."
+}
