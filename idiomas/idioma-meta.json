@@ -1,0 +1,28 @@
+[
+	{
+		"nombre": "en-US",
+		"nombreNativo": "English",
+		"moment": "en",
+		"formatoDefaultMoment": "MMMM Do YYYY",
+		"default": true,
+		"apodos": [
+			"English",
+			"en",
+			"en_us",
+			"en-us"
+		]
+	},
+	{
+		"nombre": "es-ES",
+		"nombreNativo": "Español",
+		"moment": "es",
+		"formatoDefaultMoment": "MMM Do, YYYY",
+		"default": false,
+		"apodos": [
+			"Español",
+			"es",
+			"es_es",
+			"es-es"
+		]
+	}
+]
