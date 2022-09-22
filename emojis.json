@@ -1,0 +1,41 @@
+{
+	"title": "<:atomix_title:765429952073433108>",
+	"calendar": "<:atomix_calendar:765429952060325890>",
+	"calendar2": "<:atomix_calendar2:765429952061112350>",
+	"users": "<:atomix_users:765429952094535720>",
+	"avatar": "<:atomix_avatar:765429952068714546>",
+	"desc": "<:atomix_desc:765429952229146644>",
+	"stats": "<:atomix_stats:765429952094011422>",
+	"link": "<:atomix_link:765429951692013610>",
+	"afk": "<:atomix_afk:765429952098598963>",
+	"ip": "<:atomix_ip:765429951943802902>",
+	"id": "<:atomix_id:765429952114982912>",
+	"up": "<:atomix_up:765429951863324673>",
+	"crown": "<:atomix_crown:765429952107118622>",
+	"boost": "<:atomix_boost:765429953163558932>",
+	"channels": "<:atomix_channels:765429951913918495>",
+	"error": "<:false:743266873357107220>",
+	"success": "<:true:743266873985990747>",
+	"loading": "<a:atomix_loading:765429953390575627>",
+	"bot": "<:atomix_bot:765429952060981259>",
+	"roles": "<:atomix_roles:765429951884689419>",
+	"games": "<:atomix_games:765429952073170964>",
+	"color": "<:atomix_color:765429951813517363>",
+	"discriminator": "<:atomix_discriminator:765429951843139585>",
+	"pencil": "<:atomix_pencil:765429952073039892>",
+	"status": {
+		"dnd": "<:atomix_dnd:765429952153518110>",
+		"idle": "<:atomix_idle:765429952085753856>",
+		"online": "<:atomix_online:765429952341606400>",
+		"offline": "<:atomix_offline:765429952115769365>"
+	},
+	"categories": {
+		"administration": "<:administration_category_atomix:767218487864328244>",
+		"fun": "<:fun_category_atomix:767241221919473665>",
+		"general": "<:general_category_atomix:766785764347871302>",
+		"images": "<:images_category_atomix:769047760234086400>",
+		"moderation": "<:atomix_moderation_category:797991592895184917>",
+		"music": "<:music_category_atomix:767523509895036989>",
+		"owner": "<:owner_category_atomix:767181145065914400>"
+	}
+}
