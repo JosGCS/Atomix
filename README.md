@@ -1,4 +1,4 @@
-# Atomix
+# Atomix v0.1.1
 Official Atomix Discord Bot Repository
 
 [![](https://img.shields.io/badge/discord.js-v12.2.0-blue.svg?logo=npm)](https://github.com/discordjs)
