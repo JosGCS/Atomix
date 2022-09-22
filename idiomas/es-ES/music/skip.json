@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "    | Salta la canción actual",
+    "USAGE": "{{prefix}}skip",
+    "EXAMPLES": "{{prefix}}skip",
+    "NO_NEXT_SONG": "¡No hay ninguna canción después de esta!",
+    "VOTE_CONTENT": "Siguiente canción: {{songName}}\n¡Reacciona usando :track_next: para pasar a la siguiente canción! Se necesitan {{requiredCount}} votos.",
+    "SUCCESS": "¡Canción saltada!",
+	"TITLE": "{{gName}} ● Saltar canción",
+	"DESCRIPTION2": "¿El DJ actual no está tocando buenas canciones? Sáltate sus canciones, no dejes que la fiesta se acabe."
+}

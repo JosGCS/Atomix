@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "  | Obtén una lista de servidores donde estoy",
+    "USAGE": "{{prefix}}serverlist",
+    "EXAMPLES": "{{prefix}}serverlist",
+	"DESCRIPTION2": "Obtén una lista de servidores a los que se invitó a Atomix para comenzar la fiesta."
+	"SERVERLIST_TITLE": "{{botName}} ● Lista de Servidores"
+}

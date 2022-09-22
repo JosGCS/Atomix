@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "  | Establece tu propio prefijo para Atomix",
+    "USAGE": "{{prefix}}setprefix [prefijo]",
+    "EXAMPLES": "{{prefix}}setprefix +\n{{prefix}}setprefix %\n{{prefix}}setprefix =",
+    "MISSING_PREFIX": "¡Por favor ingrese un prefijo válido!",
+    "TOO_LONG": "El prefijo no puede exceeder más de 5 caracteres.",
+    "SUCCESS": "El prefijo de Atomix es ahora `{{prefix}}`.",
+	"DESCRIPTION2": "Establezca su propio prefijo de Atomix para utilizar los comandos como tu quieras."
+}

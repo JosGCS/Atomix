@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "  | Reanuda la fiesta, no me defraudes",
+    "USAGE": "{{prefix}}resume",
+    "EXAMPLES": "{{prefix}}resume",
+    "SUCCESS": "▶️ ¡La fiesta continúa! Bailemos chicos.",
+	"DESCRIPTION2": "Continua la fiesta, no defraudes a tus fanáticos por más tiempo."
+}

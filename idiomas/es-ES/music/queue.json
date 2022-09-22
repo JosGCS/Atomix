@@ -1,0 +1,7 @@
+{
+	"DESCRIPTION": "   | Muestra la lista de reproducción en progreso",
+	"USAGE": "{{prefix}}queue",
+	"EXAMPLES": "{{prefix}}queue",
+	"TITLE": "Lista de Reproducción",
+	"DESCRIPTION2": "Muestra la lista de reproducción del servidor actual que pusieron los DJ para comenzar la fiesta."
+}

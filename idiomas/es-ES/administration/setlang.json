@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "    | Establecer el idioma para Atomix",
+    "USAGE": "{{prefix}}setlang [idioma]",
+    "EXAMPLES": "{{prefix}}setlang\n{{prefix}}setlang español\n{{prefix}}setlang english",
+    "MISSING_LANG": "Ingrese un idioma válido como estos: {{list}}",
+    "SUCCESS": ":flag_es: ¡El idioma de Atomix es ahora Español!",
+	"DESCRIPTION2": "Establece el idioma con el que desees interactuar con Atomix."
+}

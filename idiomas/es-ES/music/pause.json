@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "   | Pausa la fiesta",
+    "USAGE": "{{prefix}}pause",
+    "EXAMPLES": "{{prefix}}pause",
+    "SUCCESS": "⏸️ ¡Fiesta pausada! Enseguida continuamos bailando.",
+	"DESCRIPTION2": "Pausa la fiesta para hablar con tus amigos. Luego puedes seguir bailando."
+}

@@ -1,0 +1,7 @@
+{
+	"TITLE": "{{name}} ● Selector de Usuario Aleatorio",
+    "DESCRIPTION": "     | Elige un miembro aleatorio en el servidor",
+    "USAGE": "{{prefix}}someone",
+    "EXAMPLES": "{{prefix}}someone",
+	"DESCRIPTION2": "Escoge a un miembro aleatorio en el servidor como sorteo."
+}

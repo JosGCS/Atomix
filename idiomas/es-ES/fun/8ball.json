@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "   | Te diré la verdad sobre cualquier secreto",
+    "USAGE": "{{prefix}}8ball [pregunta]",
+    "EXAMPLES": "{{prefix}}8ball ¿Atomix es el mejor bot de Discord?",
+    "ERR_QUESTION": "¡Debes ingresar una pregunta!",
+    "RESPONSE_1": "estoy seguro de ello.",
+    "RESPONSE_2": "definitivamente es seguro.",
+    "RESPONSE_3": "definitivamente si.",
+    "RESPONSE_4": "mejor no decírtelo ahora.",
+    "RESPONSE_5": "pregunta de nuevo más tarde.",
+    "RESPONSE_6": "no cuentes con eso.",
+    "RESPONSE_7": "no lo pienso.",
+    "RESPONSE_8": "mis fuentes dicen que no.",
+    "RESPONSE_9": "no.",
+    "RESPONSE_10": "la perspectiva no tan buena."
+}

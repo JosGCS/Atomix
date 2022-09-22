@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "    | Tiraré la moneda por ti",
+    "USAGE": "{{prefix}}flip",
+    "EXAMPLES": "{{prefix}}flip",
+    "HEADS": ":coin: | ¡Cara!",
+    "TAILS": ":coin: | ¡Cruz!",
+	"DESCRIPTION2": "Apuesta y gira por una cara de la moneda."
+}

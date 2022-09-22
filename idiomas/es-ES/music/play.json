@@ -1,0 +1,22 @@
+{
+    "DESCRIPTION": "    | Sé tu propio DJ y comienza la fiesta",
+    "USAGE": "{{prefix}}play [canción]",
+    "EXAMPLES": "{{prefix}}play Bye Bye",
+    "NO_VOICE_CHANNEL": "You must be connected to a voice channel!",
+    "VOICE_CHANNEL_CONNECT": "I can't connect to your voice channel!",
+    "MISSING_SONG_NAME": "Por favor, especifique el nombre de una canción o un enlace.",
+    "RESULTS_FOOTER": "Seleccione una canción escribiendo un número entre 1 y 10.",
+    "NO_RESULT": "¡Esa canción/video no se puede encontrar en Youtube!",
+    "NOW_PLAYING": "Reproduciendo **{{songName}}**... :musical_note:",
+    "PLAYING_PLAYLIST": "Starting playlist **{{playlistTitle}}**. {{playlistEmoji}}\nPlaying the first song, **{{songName}}**! :musical_note:",
+    "CANCELLED": "Selección cancelada.",
+    "NOT_PLAYING": "Actualmente no se están reproduciendo canciones en este servidor.",
+    "QUEUE_ENDED": "La cola ha terminado. No hay más canciones para reproducir...",
+    "ADDED_QUEUE": "¡**{{songName}}** ha sido agregada a la cola!",
+    "ADDED_QUEUE_COUNT": "{{songCount}} canciones han sido agregadas a la cola.",
+    "STOP_DISCONNECTED": "Acabo de detener la música porque me han desconectado del canal.",
+	"RESULTS_CANCEL": "¡Búsqueda cancelada!",
+	"LIVE_VIDEO": "¡Los vídeos en vivo no son soportados aún!",
+	"ERR_OCCURRED": "Ha ocurrido un error... Código: `{{error}}`",
+	"DESCRIPTION2": "Sea su propio DJ y comience la fiesta en la comunidad o comience su radio y haga nuevos fanáticos."
+}

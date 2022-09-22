@@ -1,0 +1,12 @@
+{
+	"TITLE": "{{gName}} ● Limpiador de Canales",
+    "DESCRIPTION": "     | Elimina rápidamente varios mensajes",
+    "USAGE": "{{prefix}}purge <número-de-mesajes> [@usuario]",
+    "EXAMPLES": "{{prefix}}purge 10\n{{prefix}}purge 10 @JosGCS#0001\n{{prefix}}purge all",
+    "MISSING_AMOUNT": "¡Debes especificar una cantidad de mensajes para eliminar!",
+    "ALL_DESC": "Todos los mensajes en este canal de texto serán eliminados, por favor confirme reaccionando con :white_check_mark:\n\nDe lo contrario, el comando se cancelará en los próximos **30** segundos.",
+    "CHANNEL_CLEARED": "¡El canal ha sido despejado completamente!",
+    "CLEARED": "¡Se eliminaron **{{amount}}** mensajes!",
+    "CLEARED_MEMBER": "¡Se eliminaron **{{amount}}** mensajes de **{{username}}**!",
+	"DESCRIPTION2": "Elimina rápidamente varios mensajes o un canal de texto completo."
+}

@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "  | Obtén información sobre el servidor",
+    "USAGE": "{{prefix}}serverinfo [ID/Nombre]",
+    "EXAMPLES": "{{prefix}}serverinfo\n{{prefix}}serverinfo AtomixHQ\n{{prefix}}serverinfo 652264003606806531",
+    "AFK_CHANNEL": "Canal AFK:",
+    "NO_AFK_CHANNEL": "No hay canal AFK",
+    "MEMBERS": "{{count}} miembros",
+    "BOTS": "{{count}} bots",
+    "BOOSTS": "Cantidad de Boosts:",
+    "TEXT_CHANNELS": "{{count}} texto",
+    "VOICE_CHANNELS": "{{count}} voz",
+    "CAT_CHANNELS": "{{count}} categorías",
+	"TITLE": "{{gName}} ● Información del Servidor",
+	"DESCRIPTION2": "Obtén información acerca del servidor actual o alguno en especifíco."
+}

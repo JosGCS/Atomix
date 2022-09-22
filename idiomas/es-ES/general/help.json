@@ -1,0 +1,19 @@
+{
+	"DESCRIPTION": "        | Muestra este mensaje otra vez",
+	"USAGE": "{{prefix}}help [comando]",
+	"EXAMPLES": "{{prefix}}help\n{{prefix}}help ping\n{{prefix}}help purge",
+	"CUSTOM": "Este comando personalizado no tiene página de ayuda.",
+	"NOT_FOUND": "`{{search}}` no es un comando válido.",
+	"TITLE": "{{name}} ● Lista de Comandos",
+	"FIELD_USAGE": "Uso:",
+	"FIELD_DESCRIPTION": "Descripción:",
+	"FIELD_ALIASES": "Alias:",
+	"FIELD_EXAMPLES": "Ejemplos:",
+	"FIELD_PERMISSIONS": "Permisos:",
+	"NO_ALIAS": "Sin alias",
+	"CMD_TITLE": "{{name}} ● Ayudante de Comandos",
+	"INFO": "Lista de todos los comandos de {{name}}.\n\n> :warning: **¿Necesitas ayuda con un comando?**\n> Para obtener ayuda de un comando, escribe: ``{{prefix}}help [comando]``",
+	"CUSTOM_COMMANDS": "Comandos Personalizados",
+	"NO_REQUIRED_PERMISSION": "No se requiere un permiso específico para ejecutar este comando.",
+	"DESCRIPTION2": "Muestra toda la lista de comandos disponibles de Atomix u obtiene ayuda de comandos específicos."
+}
